@@ -1,7 +1,7 @@
 ## Olá! Eu sou Rafael Pereira 👋
 
 - 🔭 Atualmente atuando no front-end
-- 🌱 Estudando React + Next + 
+- 🌱 Estudando React + Next + Node 
 - 😄 Pronouns: Dev
 
  <div>
