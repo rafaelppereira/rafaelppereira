@@ -50,7 +50,7 @@
 <a href="https://twitter.com/RafaelP97357505" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-pereira-2089841b0/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/rafaelppereiraa_/" target="_blank">
@@ -61,11 +61,9 @@
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=RafaelP97357505&layout=wide&show_reply=off&show_retweet=off" />
-
 
 <!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rafaelppereira/rafaelppereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
