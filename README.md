@@ -4,11 +4,9 @@
 
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 👨‍💻 All of my projects
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ I regularly post videos on [https://www.youtube.com/channel/UC_hIK50BfqPy6WDtVZAd3Sw](https://www.youtube.com/channel/UC_hIK50BfqPy6WDtVZAd3Sw)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
