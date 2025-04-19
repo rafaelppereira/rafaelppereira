@@ -1,4 +1,4 @@
-## 🔵 <strong>Rafael dos Santos Pereira!</strong>
+## 🔵 <strong>Rafael dos Santos Pereira</strong>
 
 ![RAFAEL PEREIRA 1](https://github.com/user-attachments/assets/bd7b814f-679a-4d5b-884b-ee2e6bcf55a1)
 
