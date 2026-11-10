@@ -31,6 +31,12 @@ Tenho experiência nos dois lados da stack: interfaces modernas com React/Next.j
 
 ---
 
+**Contribuições Gitlab Softplan**
+
+<img width="974" height="200" alt="Captura de tela de 2026-11-10 16-46-29" src="https://github.com/user-attachments/assets/1783a1ad-e636-4519-bfa9-0f33d33f2b43" />
+
+---
+
 ### Projetos em destaque
 
 | Projeto | Descrição | Stack |
